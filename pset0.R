@@ -1,3 +1,3 @@
 print("hello world")
-#add lines of code to check
-#new changes to be pushed to git hub
+#new lines of code added to check
+#changes can push to github
